@@ -23,3 +23,16 @@ This project analyzes retail sales data to evaluate overall business performance
 ## Business Value
 
 The dashboard provides a centralized view of business performance and helps management make data-driven decisions.
+
+---
+
+## Dashboard Preview
+
+### Executive Dashboard
+![Executive](images/overview%20executive.png)
+
+### Product Analysis
+![Product](images/product%20analysis.png)
+
+### Customer Insights
+![Customer](images/customer%20overview.png)
