@@ -23,3 +23,16 @@ The goal of this project is to analyze revenue, cost, and profitability across c
 ## Business Value
 
 This dashboard helps management identify high-value customers, detect loss-making segments, and make data-driven financial decisions.
+
+---
+
+## Dashboard Preview
+
+### Overview
+![Overview](images/overview.png)
+
+### Customer Profitability
+![Customer](images/customer%20profitablity.png)
+
+### Industry Profitability
+![Industry](images/industry%20profitablity.png)
