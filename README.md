@@ -40,9 +40,6 @@ HR employee dataset containing employee details, department, salary, tenure, and
 - Employees with lower tenure showed higher turnover.
 - Overtime employees had a higher probability of leaving.
 
-## Dashboard Preview
-(Add dashboard screenshot here)
-
 ---
 
 # Project 2: Customer Profitability Analysis
